@@ -1,5 +1,5 @@
 ---
-name: "dsql"
+name: "aurora-dsql"
 displayName: "AWS Aurora DSQL"
 description: "PostgreSQL-compatible serverless distributed SQL database with Aurora DSQL - manage schemas, execute queries, and handle migrations with DSQL-specific constraints"
 keywords: ["aurora", "dsql", "postgresql", "serverless", "database", "sql", "aws", "distributed"]
