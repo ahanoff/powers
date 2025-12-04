@@ -2,7 +2,7 @@
 name: "figma"
 displayName: "Design to code"
 description: "Connect Figma designs to code components - automatically generate design system rules, map UI components to Figma designs, and maintain design-code consistency"
-keywords: ["postman", "api", "testing", "collections", "rest", "http", "automation"]
+keywords: ["ui", "design", "code", "layout", "mockup", "frame", "component","frontend"]
 author: "Figma"
 ---
 
