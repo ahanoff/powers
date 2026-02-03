@@ -11,16 +11,6 @@
       },
       "disabled": false,
       "autoApprove": [
-        "DiagnoseAHORunFailure",
-        "GetAHOWorkflow",
-        "GetAHORun",
-        "GetAHORunTask",
-        "GetAHORunLogs",
-        "GetAHORunManifestLogs",
-        "GetAHORunEngineLogs",
-        "GetAHOTaskLogs",
-        "GetSupportedFileTypes",
-        "GetAHOSupportedRegions"
       ]
     }
   }
